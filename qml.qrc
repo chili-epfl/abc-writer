@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>Sign.qml</file>
+        <file>pics/particleA.png</file>
+        <file>pics/5-outset.svg</file>
+        <file>pics/5-nooutset.svg</file>
+        <file>pics/5-wire.svg</file>
+        <file>pics/8-nooutset.svg</file>
+        <file>pics/8-outset.svg</file>
+        <file>pics/8-wire.svg</file>
+        <file>pics/h-nooutset.svg</file>
+        <file>pics/h-outset.svg</file>
+        <file>pics/h-wire.svg</file>
+        <file>pics/background.jpg</file>
+    </qresource>
+</RCC>
